@@ -1,2 +1,4 @@
 # BASIC_PYTHON_
-It is a basic python repository where you will find all kinds of basic concepts and logic required. I have covered all the concepts with the help of some examples questions with their coded solutions.
+It is a python repository where you will find all kinds of basic concepts and logic required to become handy in basic python programming. I have covered all the concepts with the help of some examples questions with their coded solutions. 
+
+
